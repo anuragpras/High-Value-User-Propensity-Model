@@ -4,6 +4,9 @@
 
 This repository contains an open-source machine learning pipeline for predicting whether a newly signed-up user is likely to become a **high-value user** in the future.
 
+<img width="1536" height="1024" alt="top" src="https://github.com/user-attachments/assets/f7e85a2b-0895-40dc-9e25-e598cf1e3841" />
+
+
 The model is designed to score users at or near the time of signup using early signals such as:
 
 - Signup profile
