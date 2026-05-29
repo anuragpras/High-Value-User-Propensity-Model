@@ -1,0 +1,251 @@
+UserID,SignupDate,SignupDay,SignupTime,Age,Gender,City,State,Country,Language,DeviceType,DeviceModel,OSDetails,AppVersion,ISP,AcquisitionSource,Campaign,Adgroup,FirstEventName,LandingPageViewed,ProfileCompleted,NotificationPermissionGiven,FirstSessionDurationSec,FirstSessionEventCount,ViewedPricingPage,ViewedServicePage,UsedSearch,AddedWalletMoneyOnSignupDay,SignupWalletBalance,DevicePriceTier,AcquisitionCostBucket,SignupIntentScore,PremiumDeviceFlag,HighIntentFirstSessionFlag,PaidAcquisitionFlag
+200000,2025-02-14,Mon,Morning,18,Male,Hyderabad,Maharashtra,India,Telugu,Web,Oppo F21,Android 12,2.0.0,Vi,affiliate,organic,A,view_service,1,1,1,177.0,5,0,1,0,0,34.49,Mid,Medium,3.5,0,0,1
+200001,2024-12-12,Wed,Night,41,Female,Bengaluru,Rajasthan,India,English,iOS,OnePlus Nord,Android 12,1.1.0,BSNL,meta,remarketing,C,signup,0,0,1,295.0,10,1,0,1,0,19.55,Mid,Low,3.5,0,0,1
+200002,2025-08-26,Sat,Afternoon,21,Male,Chennai,West Bengal,India,Tamil,Android,Oppo F21,Android 13,1.0.1,Other,crm,organic,E,notification_open,1,0,1,193.0,9,1,1,0,0,95.8,Mid,Low,2.7,0,0,0
+200003,2026-03-18,Mon,Morning,29,Female,Jaipur,Maharashtra,India,Telugu,Android,Samsung A14,iOS 17,2.1.1,ACT,affiliate,brand_search,B,notification_open,1,1,1,683.0,4,1,0,0,0,47.95,Mid,Medium,4.5,0,1,1
+200004,2025-05-20,Thu,Morning,24,Female,Kolkata,West Bengal,India,English,Android,Oppo F21,Android 14,1.2.3,Other,meta,lookalike,D,view_home,1,0,1,86.0,8,0,1,1,0,36.01,Low,Medium,2.5,0,0,1
+200005,2026-03-18,Mon,Night,50,Male,Mumbai,MP,India,Bengali,Android,Oppo F21,Android 13,1.1.0,Jio,referral,welcome_offer,C,view_home,0,1,0,148.0,9,0,1,1,0,117.96,Mid,Low,4.5,0,1,0
+200006,2026-03-21,Thu,Evening,40,Female,Indore,Maharashtra,India,Telugu,Android,Redmi Note,iOS 17,2.1.1,Other,organic,install_campaign,B,app_launch,1,1,0,91.0,8,0,1,0,0,275.96,Mid,Low,3.5,0,0,0
+200007,2025-03-09,Wed,Evening,49,Female,Pune,Karnataka,India,Hindi,Android,Oppo F21,Android 14,1.1.0,Airtel,organic,organic,D,signup,1,0,1,331.0,7,0,1,0,0,23.06,Low,Low,2.8,0,0,0
+200008,2026-05-07,Tue,Afternoon,48,Female,Bengaluru,MP,UAE,Hindi,iOS,iPhone 13,Android 13,2.1.1,BSNL,referral,organic,D,notification_open,1,1,0,270.0,10,0,0,0,0,102.58,Mid,Low,3.3,0,0,0
+200009,2025-05-30,Thu,Evening,55,Male,Hyderabad,Maharashtra,UK,Hindi,Android,Redmi Note,iOS 17,1.2.3,Airtel,google,remarketing,C,view_home,1,1,0,236.0,8,1,0,0,0,201.35,Low,Low,3.2,0,0,1
+200010,2025-09-05,Wed,Afternoon,28,Female,Hyderabad,Tamil Nadu,India,Tamil,iOS,OnePlus Nord,iOS 16,1.0.1,Other,affiliate,brand_search,C,view_service,1,1,1,95.0,10,1,1,0,0,167.26,Mid,Low,4.7,0,1,1
+200011,2026-01-04,Mon,Morning,54,Female,Bengaluru,MP,India,Hindi,iOS,Samsung A14,Android 12,1.0.1,ACT,meta,remarketing,D,view_service,0,1,1,49.0,13,1,1,0,0,219.9,Premium,Medium,5.7,1,1,1
+200012,2026-03-30,Tue,Night,56,Female,Pune,Tamil Nadu,India,English,Android,iPhone 13,Android 12,2.0.0,ACT,meta,brand_search,C,app_launch,1,1,1,174.0,7,0,0,0,0,92.71,Mid,Medium,2.0,0,0,1
+200013,2025-05-11,Thu,Night,49,Male,Bengaluru,MP,India,Tamil,Android,Oppo F21,iOS 16,2.0.0,Vi,meta,welcome_offer,B,signup,1,1,1,187.0,12,0,0,1,1,137.72,High,Medium,7.0,1,1,1
+200014,2025-09-16,Wed,Evening,37,Male,Pune,Telangana,India,Hindi,iOS,iPhone 13,Android 14,1.0.1,Vi,crm,welcome_offer,E,notification_open,1,1,1,95.0,9,0,0,0,1,22.49,Low,Low,5.0,0,1,0
+200015,2025-02-05,Tue,Afternoon,53,Female,Kolkata,Maharashtra,India,Hindi,iOS,Samsung A14,Android 14,2.0.0,Jio,crm,brand_search,E,signup,1,0,1,363.0,6,1,1,0,0,65.62,Low,Low,4.0,0,1,0
+200016,2025-11-13,Wed,Evening,28,Female,Indore,Maharashtra,India,Tamil,Android,OnePlus Nord,iOS 17,1.0.1,Jio,meta,welcome_offer,A,app_launch,0,0,1,77.0,5,1,0,1,0,154.08,Low,Low,2.2,0,0,1
+200017,2025-07-10,Sun,Evening,25,Other,Chennai,Delhi,India,Hindi,Android,Oppo F21,iOS 16,2.0.0,ACT,affiliate,lookalike,B,signup,0,1,1,41.0,5,0,0,0,0,137.04,Mid,Low,2.0,0,0,1
+200018,2025-07-14,Fri,Afternoon,23,Female,Indore,MP,India,Telugu,Android,iPhone 13,iOS 17,1.2.3,BSNL,meta,organic,C,promo_click,1,1,1,195.0,6,1,0,0,0,84.92,Low,High,3.2,0,0,1
+200019,2025-06-27,Sun,Night,51,Female,Kolkata,Karnataka,India,Tamil,Android,Samsung A14,Android 12,1.2.3,Vi,organic,remarketing,B,view_home,0,1,0,159.0,14,1,0,0,0,140.28,Low,Low,4.2,0,1,0
+200020,2025-11-04,Sat,Night,31,Male,Indore,Rajasthan,India,English,Android,OnePlus Nord,iOS 16,1.1.0,BSNL,referral,welcome_offer,C,promo_click,0,0,0,179.0,10,0,1,0,1,155.59,Mid,Medium,4.5,0,1,0
+200021,2025-11-25,Mon,Evening,57,Male,Hyderabad,Tamil Nadu,India,English,iOS,OnePlus Nord,iOS 17,1.1.0,ACT,affiliate,install_campaign,A,view_home,0,0,1,413.0,7,0,1,0,0,104.87,Low,Medium,2.8,0,0,1
+200022,2025-07-11,Fri,Afternoon,43,Female,Hyderabad,MP,India,Tamil,Android,Redmi Note,Android 14,1.1.0,Airtel,google,welcome_offer,A,signup,1,0,1,97.0,9,0,1,0,0,147.12,Mid,Low,1.5,0,0,1
+200023,2026-03-08,Sat,Afternoon,48,Male,Jaipur,Delhi,India,English,iOS,iPhone 13,iOS 17,1.2.3,Jio,organic,remarketing,C,app_launch,1,0,1,36.0,11,0,1,0,0,253.62,High,Medium,2.5,1,0,0
+200024,2024-12-11,Sat,Morning,43,Female,Jaipur,Tamil Nadu,UAE,Tamil,iOS,OnePlus Nord,Android 14,2.0.0,Jio,meta,organic,C,view_service,1,0,0,130.0,6,0,1,0,0,201.75,Mid,High,1.5,0,0,1
+200025,2025-11-23,Wed,Afternoon,48,Female,Mumbai,Delhi,India,Tamil,iOS,Samsung A14,iOS 16,2.1.1,Other,google,organic,D,view_service,1,1,1,212.0,9,0,1,0,0,66.29,High,Medium,3.5,1,0,1
+200026,2026-05-15,Wed,Afternoon,23,Male,Delhi,West Bengal,India,Tamil,Android,Redmi Note,Android 12,1.1.0,BSNL,google,organic,C,signup,0,1,1,312.0,13,0,1,0,0,83.23,Mid,Medium,5.8,0,1,1
+200027,2025-12-30,Fri,Evening,40,Male,Jaipur,Karnataka,India,English,Android,Vivo V27,Android 14,1.1.0,ACT,organic,install_campaign,D,view_home,1,0,1,307.0,6,0,1,0,0,345.6,Low,Medium,2.8,0,0,0
+200028,2025-09-30,Sun,Afternoon,48,Female,Jaipur,Tamil Nadu,India,English,Android,iPhone 13,Android 13,1.2.3,ACT,referral,lookalike,C,view_home,1,0,1,84.0,11,1,1,0,0,371.45,Low,Medium,3.7,0,0,0
+200029,2025-01-12,Thu,Afternoon,38,Male,Jaipur,MP,India,Telugu,Android,Samsung A14,Android 13,1.1.0,Other,google,install_campaign,B,app_launch,1,1,1,105.0,8,0,1,1,0,470.55,Low,High,4.5,0,1,1
+200030,2025-09-20,Sat,Afternoon,41,Other,Jaipur,MP,India,Hindi,Android,OnePlus Nord,Android 12,2.0.0,BSNL,affiliate,remarketing,E,view_home,1,1,1,342.0,6,0,0,0,0,85.96,Premium,Medium,3.3,1,0,1
+200031,2025-04-17,Sat,Evening,59,Female,Jaipur,Tamil Nadu,India,Bengali,Web,Redmi Note,Android 12,2.1.1,ACT,meta,brand_search,A,signup,1,1,0,75.0,8,0,0,0,1,31.57,Low,Medium,5.0,0,1,1
+200032,2026-05-10,Fri,Evening,57,Male,Hyderabad,Rajasthan,India,Telugu,Android,iPhone 13,iOS 16,1.0.1,Vi,affiliate,organic,A,signup,0,1,1,296.0,12,1,0,0,0,164.18,Low,Low,5.5,0,1,1
+200033,2025-09-22,Fri,Afternoon,52,Male,Kolkata,Karnataka,India,Tamil,Android,Samsung A14,Android 12,1.2.3,Other,organic,brand_search,A,notification_open,1,0,0,117.0,7,0,0,0,0,157.4,Mid,Low,0.0,0,0,0
+200034,2025-10-26,Sat,Afternoon,56,Female,Chennai,Delhi,India,Hindi,Android,Samsung A14,iOS 17,1.1.0,Jio,google,welcome_offer,C,notification_open,0,0,0,258.0,9,1,0,1,0,137.88,Mid,Low,3.5,0,0,1
+200035,2025-02-12,Thu,Night,29,Female,Delhi,Tamil Nadu,India,Telugu,iOS,iPhone 14,Android 13,1.2.3,Jio,referral,install_campaign,A,notification_open,1,1,0,21.0,11,0,1,0,0,11.22,Mid,Medium,4.5,0,1,0
+200036,2026-03-03,Fri,Night,58,Other,Kolkata,Maharashtra,India,Telugu,Android,Vivo V27,iOS 17,1.0.1,ACT,affiliate,welcome_offer,B,promo_click,1,0,1,117.0,8,0,0,0,0,99.99,Mid,Medium,0.0,0,0,1
+200037,2026-05-17,Thu,Morning,39,Female,Chennai,West Bengal,India,Hindi,Android,iPhone 13,iOS 17,2.0.0,BSNL,meta,brand_search,E,promo_click,1,0,1,400.0,5,0,1,0,0,293.05,Mid,Low,2.8,0,0,1
+200038,2025-05-07,Fri,Afternoon,47,Female,Pune,Rajasthan,India,English,Android,Vivo V27,iOS 17,1.1.0,ACT,referral,remarketing,E,signup,1,0,1,259.0,9,0,1,0,0,242.29,Mid,Medium,2.8,0,0,0
+200039,2025-05-29,Wed,Afternoon,37,Female,Delhi,Delhi,India,Telugu,iOS,iPhone 14,Android 13,1.2.3,BSNL,organic,welcome_offer,C,app_launch,1,1,1,114.0,10,0,1,1,1,65.72,Mid,Medium,7.5,0,1,0
+200040,2026-03-21,Wed,Night,52,Female,Jaipur,Tamil Nadu,Canada,Bengali,iOS,iPhone 13,Android 13,2.0.0,Airtel,referral,install_campaign,E,signup,1,0,0,136.0,11,1,0,0,0,371.64,Mid,Low,2.2,0,0,0
+200041,2026-05-16,Mon,Afternoon,44,Male,Hyderabad,Delhi,UK,Hindi,iOS,Vivo V27,iOS 17,2.0.0,Jio,crm,organic,E,notification_open,1,1,1,159.0,5,0,1,1,0,225.17,High,High,4.5,1,1,0
+200042,2025-06-24,Thu,Evening,22,Male,Mumbai,Telangana,India,Bengali,Android,iPhone 14,iOS 17,2.0.0,ACT,crm,lookalike,B,app_launch,1,0,1,554.0,10,0,1,1,0,65.44,Mid,Low,3.8,0,0,0
+200043,2025-12-01,Wed,Night,34,Male,Mumbai,Rajasthan,India,English,Android,Samsung A14,Android 12,2.1.1,Jio,affiliate,install_campaign,C,notification_open,1,1,1,23.0,8,0,1,1,1,171.98,Mid,Low,7.5,0,1,1
+200044,2026-04-30,Sun,Night,19,Female,Chennai,Tamil Nadu,India,Telugu,iOS,Vivo V27,Android 14,1.1.0,Vi,affiliate,lookalike,A,signup,0,0,1,244.0,1,0,1,0,0,118.75,Premium,High,2.8,1,0,1
+200045,2025-11-12,Sun,Morning,27,Female,Jaipur,Karnataka,India,English,Android,OnePlus Nord,Android 13,1.1.0,Jio,referral,organic,D,signup,1,0,1,59.0,9,0,0,0,0,150.14,Low,Medium,0.0,0,0,0
+200046,2025-07-18,Mon,Night,45,Female,Hyderabad,Maharashtra,India,Hindi,Android,OnePlus Nord,iOS 17,1.0.1,Airtel,google,brand_search,C,notification_open,0,1,0,114.0,8,0,1,0,1,141.49,Low,Low,6.5,0,1,1
+200047,2026-01-28,Sat,Morning,53,Male,Pune,Karnataka,Canada,Hindi,Android,Oppo F21,Android 13,1.0.1,Vi,google,welcome_offer,B,view_home,1,1,1,143.0,13,0,1,0,0,172.78,Mid,Medium,4.5,0,1,1
+200048,2026-03-13,Tue,Night,48,Female,Indore,Delhi,India,Tamil,Android,iPhone 14,iOS 16,1.2.3,Jio,google,welcome_offer,E,view_home,1,1,1,108.0,7,0,0,0,1,160.94,Mid,Low,5.0,0,1,1
+200049,2025-08-21,Tue,Evening,32,Male,Hyderabad,Tamil Nadu,India,Tamil,Android,Vivo V27,Android 14,1.0.1,Vi,referral,install_campaign,E,notification_open,1,0,0,403.0,10,0,1,0,0,54.1,Low,Medium,2.8,0,0,0
+200050,2025-08-13,Sat,Afternoon,31,Female,Hyderabad,Tamil Nadu,India,Hindi,iOS,Vivo V27,Android 13,1.1.0,BSNL,google,welcome_offer,B,view_service,1,1,0,52.0,6,0,1,0,0,104.07,Premium,High,3.5,1,0,1
+200051,2026-01-04,Sun,Afternoon,46,Female,Bengaluru,West Bengal,UAE,English,Android,iPhone 14,iOS 16,1.1.0,Vi,affiliate,brand_search,B,app_launch,0,1,0,296.0,3,0,1,1,0,70.63,Low,High,5.8,0,1,1
+200052,2025-05-02,Thu,Evening,22,Male,Indore,Karnataka,India,Bengali,Android,Samsung A14,Android 13,1.1.0,Jio,organic,brand_search,D,view_service,0,0,1,373.0,14,1,0,0,0,106.54,Mid,Medium,3.5,0,0,0
+200053,2026-05-15,Mon,Morning,49,Male,Hyderabad,MP,India,Hindi,Android,Redmi Note,iOS 17,1.0.1,Jio,organic,install_campaign,D,signup,1,1,1,424.0,6,0,1,0,0,463.78,Low,Medium,4.8,0,1,0
+200054,2026-05-02,Sat,Evening,26,Male,Jaipur,MP,India,Telugu,iOS,Redmi Note,iOS 16,2.0.0,BSNL,meta,remarketing,E,view_home,1,1,1,81.0,13,0,0,0,0,32.45,Low,Low,3.0,0,0,1
+200055,2025-04-14,Wed,Night,25,Male,Pune,Karnataka,India,Tamil,Android,iPhone 14,iOS 17,2.1.1,Jio,google,install_campaign,A,view_home,1,0,1,206.0,4,0,0,1,0,52.61,Mid,Low,1.0,0,0,1
+200056,2025-09-25,Sat,Morning,53,Male,Mumbai,Delhi,India,Bengali,Android,iPhone 14,iOS 16,1.2.3,ACT,organic,remarketing,D,app_launch,1,0,0,328.0,8,0,0,0,0,79.52,Low,Medium,1.3,0,0,0
+200057,2025-10-14,Sat,Night,48,Male,Mumbai,MP,India,Bengali,iOS,iPhone 13,iOS 17,1.0.1,Jio,meta,remarketing,E,view_service,1,0,0,438.0,7,0,0,0,0,249.46,Mid,Medium,1.3,0,0,1
+200058,2026-03-31,Tue,Morning,48,Female,Bengaluru,Delhi,India,Hindi,Android,OnePlus Nord,iOS 17,1.2.3,Vi,organic,install_campaign,D,notification_open,1,1,1,97.0,4,0,1,1,0,147.86,High,Low,4.5,1,1,0
+200059,2026-02-27,Thu,Morning,21,Female,Indore,Telangana,India,Hindi,Android,OnePlus Nord,iOS 17,2.1.1,Vi,affiliate,organic,E,notification_open,1,0,1,105.0,7,0,1,0,0,148.04,Mid,Medium,1.5,0,0,1
+200060,2025-01-19,Thu,Evening,48,Female,Jaipur,Karnataka,India,Tamil,Android,Vivo V27,Android 13,1.2.3,Vi,meta,brand_search,E,promo_click,1,1,1,355.0,11,0,0,0,0,90.51,Low,Medium,4.3,0,1,1
+200061,2025-03-21,Mon,Evening,31,Female,Kolkata,Rajasthan,India,Bengali,Android,Samsung A14,iOS 17,1.1.0,ACT,meta,install_campaign,B,view_service,0,0,1,396.0,10,0,0,0,0,61.07,Mid,Medium,1.3,0,0,1
+200062,2026-05-25,Wed,Evening,56,Male,Indore,Telangana,India,Hindi,Android,OnePlus Nord,iOS 17,1.0.1,Other,organic,brand_search,E,notification_open,1,1,1,26.0,11,0,0,0,0,332.15,Mid,Medium,3.0,0,0,0
+200063,2025-08-13,Wed,Morning,47,Female,Hyderabad,Delhi,USA,Telugu,iOS,OnePlus Nord,iOS 17,2.1.1,Jio,crm,remarketing,E,view_service,1,0,1,282.0,7,0,1,0,0,36.98,Mid,Medium,2.8,0,0,0
+200064,2025-12-28,Wed,Night,25,Male,Kolkata,MP,India,Tamil,iOS,Oppo F21,iOS 16,2.1.1,Airtel,crm,organic,B,signup,1,1,1,577.0,7,1,1,0,0,43.06,Mid,Low,6.0,0,1,0
+200065,2026-04-02,Wed,Evening,54,Other,Kolkata,Karnataka,India,Telugu,Android,Vivo V27,iOS 16,2.1.1,BSNL,affiliate,lookalike,A,signup,1,1,1,346.0,5,0,0,0,0,154.92,Mid,Low,3.3,0,0,1
+200066,2025-04-10,Fri,Night,56,Female,Pune,Delhi,India,English,iOS,OnePlus Nord,iOS 17,1.0.1,Vi,affiliate,install_campaign,C,signup,1,0,0,109.0,13,1,0,0,0,139.37,Mid,High,2.2,0,0,1
+200067,2025-01-24,Mon,Evening,32,Male,Mumbai,MP,India,Tamil,Android,OnePlus Nord,Android 13,1.2.3,Other,google,welcome_offer,A,notification_open,1,1,1,90.0,6,1,1,0,0,111.0,Low,Medium,4.7,0,1,1
+200068,2025-05-31,Sun,Night,36,Male,Kolkata,Rajasthan,USA,English,Web,iPhone 13,iOS 16,1.2.3,ACT,referral,welcome_offer,D,notification_open,1,0,0,47.0,4,0,1,0,1,42.62,Low,Low,4.5,0,1,0
+200069,2025-04-26,Fri,Morning,51,Male,Pune,Karnataka,India,Hindi,Android,iPhone 14,Android 14,2.0.0,Jio,google,install_campaign,C,signup,1,1,1,29.0,9,0,1,0,0,98.61,Mid,Medium,3.5,0,0,1
+200070,2024-12-30,Wed,Night,44,Male,Bengaluru,Delhi,India,Bengali,Android,iPhone 13,Android 12,1.0.1,Vi,crm,organic,B,app_launch,1,1,1,306.0,10,0,0,0,0,70.89,Low,Medium,3.3,0,0,0
+200071,2025-05-02,Fri,Night,49,Female,Pune,Karnataka,India,Tamil,iOS,iPhone 13,Android 12,1.1.0,Airtel,organic,lookalike,D,view_home,1,0,1,289.0,9,1,1,0,0,25.28,Mid,Low,4.0,0,1,0
+200072,2025-02-02,Sun,Morning,46,Female,Chennai,West Bengal,India,Bengali,Android,OnePlus Nord,Android 13,1.1.0,Other,organic,lookalike,E,view_service,0,0,0,378.0,8,0,1,0,0,292.38,High,Low,2.8,1,0,0
+200073,2025-12-25,Wed,Night,41,Female,Pune,Delhi,India,Hindi,Android,Redmi Note,Android 14,1.0.1,Other,organic,remarketing,D,promo_click,0,0,1,695.0,7,0,0,0,1,173.04,Low,Low,4.3,0,1,0
+200074,2025-01-19,Fri,Afternoon,22,Female,Mumbai,Maharashtra,India,Telugu,Android,iPhone 14,Android 12,1.1.0,ACT,meta,organic,C,notification_open,1,1,1,127.0,5,0,0,0,0,25.23,High,Medium,2.0,1,0,1
+200075,2025-11-22,Mon,Afternoon,41,Male,Delhi,MP,India,Hindi,Android,iPhone 14,Android 14,1.2.3,Other,referral,install_campaign,B,notification_open,0,0,1,89.0,9,0,0,0,0,320.6,Low,Low,0.0,0,0,0
+200076,2025-05-02,Tue,Afternoon,21,Male,Delhi,Maharashtra,India,Bengali,Android,iPhone 14,Android 12,1.1.0,Vi,affiliate,organic,C,notification_open,1,1,0,66.0,7,0,1,0,0,51.86,Low,Medium,3.5,0,0,1
+200077,2025-12-19,Fri,Night,41,Female,Hyderabad,West Bengal,India,Tamil,Android,Vivo V27,Android 14,2.0.0,BSNL,organic,organic,C,app_launch,1,0,1,260.0,9,0,1,0,0,81.61,Mid,Low,2.8,0,0,0
+200078,2025-07-06,Thu,Evening,38,Male,Bengaluru,West Bengal,India,Bengali,Android,iPhone 13,Android 14,1.1.0,Vi,meta,remarketing,E,notification_open,1,1,0,156.0,12,1,0,0,1,216.22,Mid,Medium,7.2,0,1,1
+200079,2026-02-22,Sun,Afternoon,49,Female,Delhi,Karnataka,India,Bengali,Android,Samsung A14,iOS 17,1.2.3,Airtel,organic,lookalike,D,promo_click,0,0,1,84.0,6,0,0,0,1,174.23,Mid,Low,3.0,0,0,0
+200080,2024-12-22,Sat,Afternoon,44,Female,Indore,Rajasthan,India,Hindi,iOS,iPhone 14,iOS 16,2.1.1,Jio,crm,organic,C,view_home,1,0,0,50.0,8,1,1,0,0,498.96,Mid,Medium,2.7,0,0,0
+200081,2026-03-16,Sun,Night,44,Female,Chennai,Telangana,India,Hindi,Android,iPhone 14,iOS 16,1.2.3,BSNL,meta,brand_search,D,promo_click,1,0,0,57.0,7,1,1,0,0,298.93,Mid,Medium,2.7,0,0,1
+200082,2025-07-26,Mon,Afternoon,27,Male,Mumbai,MP,India,English,Android,Oppo F21,iOS 16,2.0.0,Vi,meta,lookalike,C,view_home,0,0,0,317.0,9,0,0,0,0,217.06,Mid,Low,1.3,0,0,1
+200083,2024-12-13,Thu,Night,19,Female,Bengaluru,Karnataka,India,Telugu,Android,Vivo V27,Android 12,1.1.0,Airtel,meta,brand_search,A,app_launch,0,1,0,247.0,9,0,1,1,0,181.47,High,Medium,5.8,1,1,1
+200084,2025-05-30,Sun,Morning,52,Female,Kolkata,Telangana,USA,Hindi,Android,iPhone 13,Android 12,1.2.3,Jio,organic,lookalike,C,view_home,1,0,0,459.0,11,0,1,0,0,75.93,Mid,Medium,3.8,0,0,0
+200085,2026-01-07,Sat,Morning,32,Male,Jaipur,MP,UK,Hindi,Web,Oppo F21,Android 14,1.2.3,Airtel,referral,brand_search,C,view_home,1,1,0,166.0,7,0,1,1,1,28.45,Low,Low,7.5,0,1,0
+200086,2025-07-02,Fri,Afternoon,58,Male,Hyderabad,Tamil Nadu,India,Telugu,iOS,iPhone 13,iOS 17,1.0.1,Airtel,affiliate,remarketing,D,view_service,1,0,0,290.0,8,1,0,0,1,92.16,Mid,High,5.5,0,1,1
+200087,2025-01-22,Mon,Night,27,Male,Mumbai,MP,Canada,English,Android,OnePlus Nord,iOS 17,1.1.0,Jio,organic,install_campaign,E,signup,1,0,0,217.0,6,0,0,0,0,47.86,Low,High,0.0,0,0,0
+200088,2026-05-04,Fri,Afternoon,44,Female,Bengaluru,MP,India,Bengali,Android,iPhone 14,iOS 16,1.1.0,BSNL,google,organic,D,notification_open,1,0,1,208.0,9,1,0,0,0,29.78,High,High,1.2,1,0,1
+200089,2026-03-10,Fri,Night,28,Male,Jaipur,MP,India,Hindi,Android,iPhone 13,Android 14,2.0.0,Other,affiliate,brand_search,E,notification_open,0,0,0,291.0,6,1,0,1,0,196.72,Low,Medium,3.5,0,0,1
+200090,2025-11-18,Sat,Afternoon,23,Male,Bengaluru,MP,India,Tamil,iOS,iPhone 13,Android 13,1.1.0,ACT,referral,remarketing,A,notification_open,1,1,1,302.0,9,0,0,0,0,146.83,Low,Low,3.3,0,0,0
+200091,2025-03-12,Sat,Evening,59,Male,Chennai,West Bengal,India,Hindi,Android,OnePlus Nord,Android 13,1.1.0,Jio,affiliate,brand_search,A,promo_click,1,0,0,138.0,10,0,0,0,0,164.77,Low,Medium,0.0,0,0,1
+200092,2026-03-29,Thu,Afternoon,27,Female,Bengaluru,Karnataka,India,Telugu,Android,Redmi Note,Android 13,1.0.1,ACT,google,welcome_offer,B,app_launch,1,1,0,164.0,13,1,0,1,0,231.33,High,Medium,5.2,1,1,1
+200093,2026-02-06,Mon,Afternoon,26,Male,Chennai,MP,India,English,Android,OnePlus Nord,Android 12,2.1.1,BSNL,crm,install_campaign,B,notification_open,1,0,1,194.0,8,0,0,0,0,144.38,Mid,Low,0.0,0,0,0
+200094,2025-02-15,Sat,Evening,30,Male,Indore,MP,India,Telugu,Android,Samsung A14,Android 12,1.2.3,Vi,crm,remarketing,B,view_home,1,0,0,146.0,6,0,1,0,0,43.85,Mid,Medium,1.5,0,0,0
+200095,2025-11-20,Mon,Night,38,Female,Chennai,Delhi,India,Tamil,Android,Redmi Note,iOS 17,1.0.1,Jio,crm,brand_search,C,view_service,0,1,0,513.0,7,0,1,0,0,105.79,High,Low,4.8,1,1,0
+200096,2025-10-05,Tue,Night,39,Male,Bengaluru,Telangana,India,Hindi,iOS,Vivo V27,iOS 17,1.2.3,Vi,affiliate,lookalike,E,notification_open,0,1,1,88.0,4,1,0,0,0,20.68,Premium,High,3.2,1,0,1
+200097,2026-01-02,Sun,Afternoon,41,Male,Chennai,Tamil Nadu,India,Bengali,Android,iPhone 13,Android 12,2.1.1,Jio,referral,organic,A,view_service,0,1,1,112.0,5,1,0,0,0,152.62,Low,Low,3.2,0,0,0
+200098,2024-12-31,Mon,Night,45,Female,Delhi,Maharashtra,India,Tamil,Android,Redmi Note,iOS 16,2.1.1,BSNL,meta,remarketing,E,signup,0,1,0,209.0,6,0,1,0,0,99.74,Premium,Low,3.5,1,0,1
+200099,2025-07-20,Sat,Morning,42,Male,Pune,Maharashtra,India,English,Android,OnePlus Nord,Android 14,2.1.1,Other,affiliate,organic,E,app_launch,0,0,1,261.0,12,0,0,0,0,61.77,Mid,Medium,2.3,0,0,1
+200100,2026-02-14,Wed,Morning,23,Female,Pune,Rajasthan,India,Bengali,Android,OnePlus Nord,Android 12,1.0.1,Airtel,crm,brand_search,E,notification_open,1,0,0,195.0,13,1,0,0,0,73.15,Mid,Low,2.2,0,0,0
+200101,2025-07-05,Wed,Afternoon,41,Male,Pune,Telangana,India,English,Android,iPhone 14,iOS 17,2.0.0,Vi,affiliate,lookalike,A,signup,1,1,1,46.0,9,1,1,0,0,135.26,Mid,Medium,4.7,0,1,1
+200102,2026-01-29,Thu,Morning,45,Male,Kolkata,Karnataka,India,Telugu,Android,Samsung A14,Android 13,2.0.0,ACT,crm,remarketing,A,notification_open,0,1,1,293.0,7,0,0,1,0,41.89,Mid,Medium,4.3,0,1,0
+200103,2026-03-19,Sun,Morning,58,Female,Delhi,Karnataka,India,Bengali,Android,iPhone 13,Android 13,2.1.1,BSNL,meta,lookalike,E,view_service,1,0,1,160.0,9,1,1,1,0,363.76,Low,Medium,3.7,0,0,1
+200104,2026-05-04,Thu,Afternoon,57,Male,Bengaluru,Delhi,India,Tamil,Android,Redmi Note,Android 14,1.0.1,Vi,referral,brand_search,A,view_home,1,0,0,169.0,8,0,1,0,0,435.86,Premium,Medium,1.5,1,0,0
+200105,2025-04-08,Sat,Evening,46,Female,Indore,Delhi,India,English,Android,OnePlus Nord,Android 14,2.1.1,Airtel,google,remarketing,D,view_service,1,1,1,262.0,7,0,0,1,0,99.77,Low,Low,4.3,0,1,1
+200106,2025-08-19,Thu,Morning,20,Male,Kolkata,West Bengal,India,Hindi,Android,Oppo F21,Android 12,1.0.1,Other,google,brand_search,A,notification_open,1,1,1,178.0,14,0,0,1,1,30.72,Low,Low,7.0,0,1,1
+200107,2025-11-03,Sun,Evening,47,Female,Bengaluru,Rajasthan,India,Hindi,Android,Oppo F21,Android 14,1.2.3,Airtel,crm,remarketing,B,view_service,1,0,1,472.0,10,0,0,1,0,109.83,Mid,Low,2.3,0,0,0
+200108,2025-02-01,Sun,Afternoon,38,Female,Pune,Karnataka,India,Telugu,Android,Oppo F21,iOS 16,2.0.0,Jio,affiliate,lookalike,D,app_launch,1,1,1,164.0,4,0,0,0,0,201.09,High,Low,2.0,1,0,1
+200109,2025-12-10,Mon,Afternoon,36,Male,Indore,Tamil Nadu,UAE,Bengali,Android,Oppo F21,Android 14,1.0.1,BSNL,meta,brand_search,B,view_service,1,1,1,175.0,14,1,1,0,0,147.35,Low,Medium,5.7,0,1,1
+200110,2025-06-03,Wed,Night,57,Female,Pune,Karnataka,India,Hindi,Web,iPhone 13,iOS 16,1.1.0,BSNL,meta,remarketing,D,view_service,0,0,1,164.0,4,0,1,0,0,198.29,Mid,Medium,1.5,0,0,1
+200111,2026-04-17,Fri,Night,23,Male,Chennai,Maharashtra,India,Telugu,Android,iPhone 14,Android 13,2.0.0,ACT,meta,organic,B,promo_click,0,0,1,171.0,12,0,1,0,0,410.17,Mid,Medium,2.5,0,0,1
+200112,2025-06-02,Sat,Night,55,Female,Bengaluru,Tamil Nadu,India,Bengali,iOS,OnePlus Nord,iOS 16,1.0.1,Vi,organic,welcome_offer,A,promo_click,0,1,0,877.0,5,0,1,0,0,8.85,Low,Low,4.8,0,1,0
+200113,2025-08-10,Sat,Morning,42,Female,Mumbai,Tamil Nadu,India,Tamil,iOS,iPhone 14,iOS 16,1.1.0,ACT,affiliate,brand_search,E,app_launch,0,0,1,192.0,6,0,0,0,0,107.52,Low,Low,0.0,0,0,1
+200114,2026-04-12,Sun,Morning,49,Male,Jaipur,Delhi,India,English,Android,iPhone 14,Android 12,2.0.0,ACT,organic,install_campaign,C,signup,1,0,0,620.0,11,0,1,0,0,282.61,Mid,Medium,3.8,0,0,0
+200115,2025-01-08,Thu,Afternoon,56,Male,Chennai,Karnataka,India,Telugu,Android,Redmi Note,iOS 17,1.0.1,Airtel,meta,lookalike,C,promo_click,1,0,1,304.0,10,0,1,0,0,81.86,High,Low,2.8,1,0,1
+200116,2026-01-26,Sun,Afternoon,55,Female,Mumbai,Karnataka,India,Bengali,iOS,iPhone 13,Android 13,1.1.0,Airtel,google,welcome_offer,E,app_launch,0,0,0,84.0,5,0,0,0,0,140.73,Low,Medium,0.0,0,0,1
+200117,2024-12-06,Wed,Morning,24,Male,Mumbai,West Bengal,India,Hindi,Android,Vivo V27,iOS 17,1.0.1,Other,google,install_campaign,E,promo_click,0,1,1,112.0,6,0,1,0,0,263.44,Mid,Low,3.5,0,0,1
+200118,2025-06-29,Tue,Afternoon,46,Female,Pune,Maharashtra,India,Telugu,Android,Redmi Note,Android 12,1.2.3,Vi,google,lookalike,D,notification_open,1,0,1,166.0,5,0,1,1,0,101.33,Low,Low,2.5,0,0,1
+200119,2025-05-02,Thu,Evening,55,Male,Hyderabad,Karnataka,India,Tamil,Android,Samsung A14,Android 13,1.2.3,BSNL,affiliate,brand_search,B,signup,1,1,0,285.0,7,0,1,1,1,49.78,Mid,Medium,8.8,0,1,1
+200120,2025-06-23,Tue,Afternoon,43,Female,Indore,Maharashtra,UK,Bengali,iOS,Vivo V27,Android 12,1.0.1,Other,google,lookalike,E,promo_click,0,1,1,184.0,9,0,0,0,0,268.78,Mid,Low,2.0,0,0,1
+200121,2025-03-11,Sun,Night,41,Female,Bengaluru,Maharashtra,India,Tamil,Android,Vivo V27,iOS 17,1.2.3,ACT,crm,organic,E,notification_open,1,1,1,39.0,6,0,0,0,0,50.86,High,High,2.0,1,0,0
+200122,2025-12-15,Tue,Afternoon,48,Male,Bengaluru,Delhi,India,English,Android,Oppo F21,Android 14,1.0.1,Vi,google,install_campaign,D,view_home,1,1,0,173.0,11,0,1,0,0,39.47,Mid,Medium,4.5,0,1,1
+200123,2025-10-10,Tue,Afternoon,52,Male,Pune,Maharashtra,USA,Bengali,Android,Oppo F21,iOS 17,1.1.0,ACT,crm,brand_search,E,view_service,1,0,0,226.0,9,0,0,0,0,224.43,High,High,0.0,1,0,0
+200124,2025-12-16,Mon,Morning,35,Female,Indore,Rajasthan,India,Bengali,Android,OnePlus Nord,Android 12,2.0.0,Airtel,google,welcome_offer,B,app_launch,1,0,1,100.0,12,0,0,1,0,157.8,Mid,Low,2.0,0,0,1
+200125,2025-06-14,Sun,Afternoon,48,Male,Mumbai,Tamil Nadu,India,Bengali,Web,Redmi Note,iOS 16,2.1.1,Airtel,meta,brand_search,C,view_home,1,0,1,169.0,8,0,0,0,0,230.56,Mid,Medium,0.0,0,0,1
+200126,2025-08-21,Fri,Afternoon,20,Male,Chennai,MP,India,Telugu,Android,OnePlus Nord,iOS 16,2.1.1,Other,affiliate,organic,C,promo_click,0,1,1,51.0,9,0,1,0,0,206.91,Mid,Low,3.5,0,0,1
+200127,2025-09-04,Tue,Evening,34,Male,Jaipur,MP,India,Telugu,iOS,iPhone 13,Android 14,1.1.0,ACT,referral,welcome_offer,B,promo_click,1,0,1,165.0,13,1,1,1,0,92.99,Mid,High,4.7,0,1,0
+200128,2025-07-26,Tue,Night,53,Male,Chennai,Delhi,USA,Hindi,Android,Redmi Note,Android 14,1.2.3,Jio,affiliate,welcome_offer,B,signup,0,1,1,66.0,6,0,1,0,1,43.85,Low,Low,6.5,0,1,1
+200129,2025-11-18,Sat,Afternoon,18,Female,Pune,West Bengal,India,Telugu,iOS,Samsung A14,Android 12,2.1.1,Airtel,crm,organic,D,notification_open,1,0,1,20.0,8,0,0,1,0,86.76,Low,Medium,1.0,0,0,0
+200130,2026-01-08,Fri,Evening,40,Male,Mumbai,Delhi,India,Tamil,Android,OnePlus Nord,Android 14,1.0.1,Jio,google,organic,A,app_launch,0,0,0,809.0,7,0,0,1,0,177.34,Mid,Medium,2.3,0,0,1
+200131,2025-06-13,Thu,Evening,23,Male,Jaipur,Tamil Nadu,India,Telugu,Android,iPhone 13,Android 12,1.2.3,Other,referral,welcome_offer,D,app_launch,1,0,0,21.0,9,0,0,0,0,39.05,High,Medium,0.0,1,0,0
+200132,2026-01-25,Sat,Morning,37,Female,Bengaluru,Delhi,USA,Telugu,Android,iPhone 13,Android 12,2.0.0,ACT,affiliate,lookalike,C,view_home,1,1,0,384.0,11,0,0,0,0,290.27,Low,Low,4.3,0,1,1
+200133,2025-04-01,Sun,Morning,52,Male,Pune,West Bengal,India,English,Android,Vivo V27,Android 14,1.1.0,Other,affiliate,welcome_offer,A,signup,0,1,1,291.0,6,0,0,0,0,40.19,High,Low,3.3,1,0,1
+200134,2025-06-13,Wed,Morning,28,Male,Bengaluru,Tamil Nadu,India,Telugu,Android,Samsung A14,Android 13,2.1.1,Jio,organic,organic,A,view_service,0,1,0,124.0,9,1,1,1,0,118.34,Premium,High,5.7,1,1,0
+200135,2025-12-20,Fri,Morning,31,Female,Kolkata,Delhi,India,Bengali,Android,Vivo V27,iOS 16,2.0.0,Airtel,google,brand_search,D,promo_click,0,0,1,183.0,5,0,0,0,0,82.05,Mid,Medium,0.0,0,0,1
+200136,2026-05-10,Sun,Morning,41,Male,Jaipur,Delhi,India,Bengali,Android,iPhone 14,Android 12,1.2.3,Vi,google,welcome_offer,E,app_launch,1,0,0,223.0,6,0,1,0,0,290.45,Low,Low,1.5,0,0,1
+200137,2025-03-08,Tue,Evening,29,Female,Bengaluru,Tamil Nadu,India,English,Android,OnePlus Nord,Android 14,2.0.0,ACT,google,organic,B,promo_click,0,0,1,120.0,6,0,0,1,0,112.33,Mid,Medium,1.0,0,0,1
+200138,2025-08-25,Sat,Night,46,Female,Jaipur,Tamil Nadu,India,Tamil,iOS,Vivo V27,Android 13,2.1.1,ACT,meta,remarketing,E,promo_click,0,0,0,219.0,7,0,0,0,0,85.85,Mid,High,0.0,0,0,1
+200139,2026-02-21,Wed,Afternoon,27,Female,Jaipur,Karnataka,India,Hindi,Android,iPhone 13,iOS 16,2.1.1,Vi,google,brand_search,E,app_launch,1,0,0,85.0,8,1,1,0,0,4.53,High,Low,2.7,1,0,1
+200140,2025-11-10,Thu,Morning,43,Male,Chennai,Karnataka,India,English,Android,Vivo V27,Android 13,2.0.0,Vi,organic,welcome_offer,D,app_launch,1,1,0,71.0,9,1,1,0,0,81.29,Low,Medium,4.7,0,1,0
+200141,2026-03-18,Wed,Afternoon,23,Male,Jaipur,Maharashtra,USA,English,Android,Vivo V27,iOS 17,2.0.0,BSNL,crm,welcome_offer,B,view_home,1,0,0,150.0,12,0,0,1,0,205.23,Low,Low,2.0,0,0,0
+200142,2025-11-03,Fri,Night,19,Male,Mumbai,Karnataka,India,Tamil,Android,iPhone 14,iOS 17,1.1.0,Airtel,affiliate,lookalike,C,app_launch,1,0,0,65.0,12,0,1,0,0,88.87,Low,Low,2.5,0,0,1
+200143,2025-02-27,Fri,Afternoon,48,Female,Delhi,Delhi,India,Tamil,Android,iPhone 14,iOS 17,1.0.1,Airtel,affiliate,remarketing,B,app_launch,0,0,0,62.0,6,1,1,0,0,19.67,Low,Low,2.7,0,0,1
+200144,2025-09-29,Fri,Afternoon,23,Male,Pune,West Bengal,USA,Bengali,Android,Samsung A14,iOS 17,1.0.1,ACT,meta,welcome_offer,D,view_service,1,0,0,92.0,9,1,0,0,0,61.43,Low,High,1.2,0,0,1
+200145,2025-04-15,Fri,Evening,58,Male,Chennai,Delhi,Canada,Telugu,Android,iPhone 13,Android 12,1.2.3,Jio,crm,organic,D,signup,0,0,1,438.0,8,0,0,0,1,23.63,High,Low,4.3,1,1,0
+200146,2025-04-14,Fri,Afternoon,35,Other,Mumbai,Maharashtra,India,Tamil,iOS,iPhone 14,iOS 17,2.0.0,Other,crm,brand_search,D,view_home,0,1,1,34.0,10,1,0,1,0,85.59,Low,Medium,4.2,0,1,0
+200147,2025-08-18,Mon,Night,21,Male,Mumbai,MP,UK,Hindi,Android,iPhone 14,Android 12,1.0.1,ACT,organic,brand_search,E,promo_click,1,0,1,370.0,12,0,0,0,0,58.23,Mid,High,2.3,0,0,0
+200148,2026-05-07,Wed,Afternoon,21,Female,Delhi,West Bengal,India,English,Android,OnePlus Nord,iOS 17,1.1.0,Airtel,meta,brand_search,D,view_service,1,0,1,206.0,8,1,0,0,0,84.25,Mid,Low,1.2,0,0,1
+200149,2026-03-24,Sun,Evening,51,Male,Chennai,West Bengal,USA,Telugu,Android,Oppo F21,Android 12,1.0.1,Other,crm,lookalike,A,notification_open,0,1,1,294.0,3,1,0,0,0,131.25,Mid,Low,4.5,0,1,0
+200150,2025-07-11,Tue,Evening,21,Male,Hyderabad,Telangana,India,Telugu,Android,OnePlus Nord,iOS 16,1.1.0,Vi,meta,remarketing,E,signup,1,0,0,82.0,7,0,1,0,0,186.1,High,Low,1.5,1,0,1
+200151,2025-10-02,Sun,Afternoon,27,Male,Indore,MP,India,Tamil,Android,Oppo F21,Android 12,1.0.1,BSNL,google,lookalike,D,notification_open,1,1,1,31.0,9,0,1,0,1,56.84,High,Medium,6.5,1,1,1
+200152,2025-10-22,Sun,Morning,26,Female,Jaipur,Tamil Nadu,India,Bengali,Android,Redmi Note,Android 13,2.0.0,BSNL,referral,remarketing,A,signup,1,0,1,322.0,2,0,0,1,0,34.72,Mid,Low,2.3,0,0,0
+200153,2026-04-07,Sat,Evening,18,Male,Hyderabad,Tamil Nadu,India,English,Android,iPhone 14,iOS 16,1.1.0,Vi,google,remarketing,E,view_service,0,0,0,615.0,7,0,1,0,0,269.34,Low,Low,2.8,0,0,1
+200154,2026-04-04,Tue,Afternoon,58,Male,Pune,Telangana,India,English,Android,iPhone 14,Android 13,1.0.1,BSNL,affiliate,welcome_offer,C,view_service,0,1,1,542.0,7,0,1,0,1,209.7,Low,Low,7.8,0,1,1
+200155,2026-03-11,Sun,Evening,21,Female,Pune,Karnataka,India,Hindi,Android,Vivo V27,iOS 16,2.0.0,ACT,meta,remarketing,D,view_service,0,0,1,158.0,7,1,1,1,0,63.57,Mid,Medium,3.7,0,0,1
+200156,2026-01-04,Sun,Night,53,Male,Chennai,Tamil Nadu,India,English,Android,Redmi Note,Android 13,1.0.1,BSNL,referral,welcome_offer,B,notification_open,1,0,0,436.0,7,0,0,0,0,154.72,Low,Low,1.3,0,0,0
+200157,2026-02-18,Fri,Afternoon,50,Male,Kolkata,Rajasthan,India,English,Android,OnePlus Nord,iOS 17,2.0.0,Airtel,affiliate,brand_search,A,notification_open,1,0,1,145.0,7,1,1,0,0,124.87,High,Medium,2.7,1,0,1
+200158,2025-10-20,Fri,Evening,47,Female,Chennai,Maharashtra,UK,Hindi,Android,Vivo V27,Android 13,2.0.0,Other,referral,welcome_offer,C,notification_open,1,1,0,139.0,10,0,1,0,0,80.74,Mid,High,3.5,0,0,0
+200159,2026-04-21,Tue,Night,51,Male,Kolkata,Delhi,India,English,Web,Samsung A14,iOS 16,1.1.0,Airtel,referral,brand_search,D,promo_click,1,0,1,96.0,6,1,0,0,0,133.77,Mid,Low,1.2,0,0,0
+200160,2025-10-06,Sun,Afternoon,30,Female,Mumbai,Delhi,India,Bengali,Android,OnePlus Nord,Android 12,2.1.1,Airtel,referral,remarketing,B,app_launch,1,0,0,104.0,12,1,0,0,0,213.87,Premium,Medium,2.2,1,0,0
+200161,2025-03-10,Sun,Afternoon,46,Male,Delhi,Karnataka,UK,English,Android,Vivo V27,iOS 17,2.1.1,Other,affiliate,organic,A,promo_click,1,0,1,134.0,5,0,0,1,0,38.64,Low,Low,1.0,0,0,1
+200162,2025-05-04,Tue,Afternoon,29,Female,Pune,Maharashtra,India,Tamil,Web,OnePlus Nord,iOS 16,1.0.1,ACT,affiliate,welcome_offer,C,view_home,1,1,1,265.0,7,0,0,1,0,95.82,Mid,Low,4.3,0,1,1
+200163,2025-03-26,Thu,Afternoon,47,Male,Delhi,Maharashtra,India,Tamil,Android,iPhone 13,iOS 16,1.0.1,Other,crm,lookalike,E,signup,1,0,1,153.0,13,0,1,0,0,136.71,Low,Low,2.5,0,0,0
+200164,2026-02-14,Tue,Morning,55,Female,Jaipur,Maharashtra,India,English,Android,Oppo F21,Android 12,1.0.1,BSNL,meta,install_campaign,B,app_launch,0,1,1,296.0,9,0,1,0,0,131.84,Low,High,4.8,0,1,1
+200165,2025-11-09,Tue,Night,49,Female,Indore,Maharashtra,India,Telugu,Android,Vivo V27,iOS 17,1.1.0,BSNL,affiliate,install_campaign,B,signup,0,1,0,119.0,11,0,0,0,0,126.84,Mid,Medium,3.0,0,0,1
+200166,2025-03-25,Mon,Afternoon,40,Male,Chennai,Delhi,India,English,Web,Redmi Note,iOS 17,1.2.3,Vi,organic,brand_search,D,view_service,1,0,0,193.0,7,0,0,0,0,221.45,Mid,Medium,0.0,0,0,0
+200167,2026-03-27,Wed,Evening,24,Female,Indore,Delhi,India,Telugu,Android,Vivo V27,iOS 17,1.1.0,Jio,affiliate,welcome_offer,B,promo_click,1,1,0,413.0,14,0,0,1,0,340.29,Mid,Medium,5.3,0,1,1
+200168,2026-02-08,Tue,Afternoon,19,Female,Hyderabad,Delhi,India,Hindi,iOS,OnePlus Nord,Android 14,1.1.0,Jio,organic,organic,B,promo_click,1,0,1,148.0,8,0,1,0,0,102.99,Low,Medium,1.5,0,0,0
+200169,2026-04-14,Fri,Afternoon,56,Female,Pune,Tamil Nadu,India,Telugu,Android,iPhone 14,iOS 16,1.1.0,BSNL,meta,organic,D,view_home,1,1,1,422.0,3,0,1,0,0,112.96,Mid,Low,4.8,0,1,1
+200170,2026-04-24,Sun,Morning,44,Male,Chennai,Delhi,India,Tamil,Android,iPhone 13,Android 13,1.2.3,Other,referral,brand_search,D,view_home,0,0,1,222.0,9,0,0,0,0,55.34,Low,Low,0.0,0,0,0
+200171,2025-12-16,Thu,Afternoon,43,Male,Jaipur,Tamil Nadu,India,Tamil,Android,Samsung A14,Android 14,2.0.0,BSNL,referral,lookalike,B,notification_open,1,0,1,154.0,8,0,0,1,0,33.69,Low,High,1.0,0,0,0
+200172,2025-02-21,Mon,Morning,26,Male,Delhi,West Bengal,India,Hindi,Android,iPhone 14,Android 13,1.2.3,ACT,google,lookalike,C,view_home,1,1,1,449.0,4,0,0,1,0,138.09,Mid,Low,4.3,0,1,1
+200173,2025-09-06,Tue,Afternoon,49,Male,Jaipur,West Bengal,India,Tamil,iOS,Redmi Note,iOS 17,2.0.0,BSNL,google,brand_search,A,app_launch,1,1,0,220.0,8,0,0,0,0,228.47,Mid,High,2.0,0,0,1
+200174,2025-07-08,Sun,Night,44,Male,Pune,Delhi,India,Tamil,Android,Oppo F21,Android 14,2.1.1,BSNL,affiliate,install_campaign,D,view_service,1,1,0,324.0,12,1,1,1,0,261.05,Mid,Medium,8.0,0,1,1
+200175,2025-03-16,Sun,Night,49,Male,Indore,Delhi,India,Telugu,iOS,Samsung A14,iOS 17,1.1.0,Vi,google,remarketing,A,view_home,1,1,0,106.0,3,0,0,0,0,183.54,High,Medium,2.0,1,0,1
+200176,2025-03-13,Sat,Night,27,Female,Chennai,Karnataka,India,Bengali,Android,Vivo V27,Android 14,1.1.0,Other,crm,lookalike,E,app_launch,1,1,0,236.0,6,0,0,0,0,63.28,Mid,Medium,2.0,0,0,0
+200177,2024-12-20,Thu,Afternoon,49,Female,Bengaluru,West Bengal,India,Hindi,Android,iPhone 14,Android 13,1.2.3,ACT,google,lookalike,D,signup,1,0,1,182.0,10,0,0,0,0,65.11,Mid,High,0.0,0,0,1
+200178,2026-02-01,Tue,Morning,54,Male,Pune,MP,India,English,Android,Redmi Note,Android 13,1.2.3,Vi,crm,lookalike,E,view_home,1,1,1,196.0,4,1,1,0,0,41.95,Mid,Medium,4.7,0,1,0
+200179,2026-04-02,Wed,Evening,54,Male,Indore,Maharashtra,India,Bengali,iOS,OnePlus Nord,iOS 17,1.1.0,BSNL,crm,welcome_offer,E,view_home,1,1,1,113.0,6,0,1,0,0,49.05,Mid,Medium,3.5,0,0,0
+200180,2026-04-04,Sun,Morning,54,Male,Bengaluru,West Bengal,USA,Telugu,iOS,Vivo V27,iOS 16,1.0.1,BSNL,affiliate,install_campaign,B,signup,1,0,1,301.0,7,0,0,0,0,199.07,Premium,Medium,1.3,1,0,1
+200181,2025-07-31,Mon,Morning,51,Female,Jaipur,Delhi,India,Telugu,Android,Oppo F21,iOS 16,1.2.3,Jio,google,brand_search,C,app_launch,1,0,0,234.0,9,0,1,0,0,43.12,Mid,Low,1.5,0,0,1
+200182,2025-08-05,Sun,Afternoon,33,Female,Hyderabad,Delhi,India,English,Android,iPhone 13,iOS 16,1.0.1,Jio,meta,organic,B,notification_open,0,1,0,355.0,4,0,0,0,0,61.89,Premium,Low,3.3,1,0,1
+200183,2025-12-20,Fri,Night,54,Male,Chennai,Telangana,India,Tamil,iOS,Vivo V27,Android 14,2.1.1,Airtel,google,organic,B,app_launch,1,0,0,415.0,7,0,0,1,0,131.34,Mid,Medium,2.3,0,0,1
+200184,2026-02-01,Sat,Morning,21,Female,Mumbai,Tamil Nadu,UAE,English,Android,Samsung A14,Android 13,2.0.0,Jio,meta,install_campaign,E,notification_open,1,1,1,259.0,3,0,1,0,0,60.98,Mid,Low,4.8,0,1,1
+200185,2025-10-20,Thu,Night,43,Male,Indore,West Bengal,India,Tamil,Android,iPhone 14,Android 14,1.0.1,Jio,meta,install_campaign,E,notification_open,0,0,1,125.0,7,0,0,0,0,55.66,High,Medium,0.0,1,0,1
+200186,2025-09-16,Wed,Afternoon,25,Female,Bengaluru,Telangana,India,Tamil,Android,iPhone 13,iOS 17,1.2.3,Vi,affiliate,welcome_offer,B,promo_click,1,0,1,182.0,4,1,1,1,0,287.73,High,Low,3.7,1,0,1
+200187,2025-03-07,Thu,Afternoon,37,Male,Kolkata,Tamil Nadu,India,Telugu,iOS,iPhone 14,iOS 16,2.1.1,Other,affiliate,brand_search,D,promo_click,1,1,1,71.0,11,0,1,0,0,210.33,Low,Medium,4.5,0,1,1
+200188,2024-12-08,Sun,Afternoon,43,Male,Chennai,Tamil Nadu,India,Tamil,Web,iPhone 13,iOS 17,1.2.3,Vi,crm,brand_search,A,signup,1,1,1,269.0,11,0,0,0,0,149.1,Low,Medium,4.3,0,1,0
+200189,2025-01-04,Sun,Night,30,Male,Mumbai,West Bengal,India,English,Android,OnePlus Nord,Android 13,2.1.1,Other,google,install_campaign,D,view_service,1,1,1,524.0,6,1,0,0,0,106.1,Low,Medium,4.5,0,1,1
+200190,2025-01-05,Sat,Evening,20,Male,Kolkata,Telangana,India,English,Android,Vivo V27,Android 13,2.1.1,ACT,meta,organic,B,signup,0,0,0,33.0,6,1,0,0,0,107.71,Mid,Low,1.2,0,0,1
+200191,2025-12-01,Mon,Night,34,Male,Chennai,Maharashtra,India,Tamil,Android,Samsung A14,Android 12,2.1.1,Airtel,google,brand_search,B,view_service,0,0,0,628.0,11,0,0,0,0,28.05,Mid,High,2.3,0,0,1
+200192,2026-02-20,Tue,Night,51,Female,Delhi,West Bengal,India,Hindi,Android,Oppo F21,Android 13,1.2.3,Airtel,affiliate,brand_search,B,app_launch,1,1,1,244.0,3,0,0,0,0,286.21,Mid,Low,3.3,0,0,1
+200193,2025-06-10,Mon,Afternoon,36,Female,Chennai,Maharashtra,India,Telugu,Android,Samsung A14,Android 13,1.1.0,BSNL,organic,welcome_offer,D,notification_open,1,0,0,37.0,6,0,1,0,0,296.18,Low,Medium,1.5,0,0,0
+200194,2026-03-02,Wed,Morning,48,Female,Delhi,Delhi,India,Bengali,Web,Vivo V27,iOS 16,2.0.0,Vi,google,organic,D,app_launch,1,0,0,172.0,5,1,0,0,0,45.64,Low,Medium,1.2,0,0,1
+200195,2025-04-08,Tue,Night,37,Male,Delhi,Delhi,India,Hindi,Android,Vivo V27,Android 14,1.0.1,Other,google,install_campaign,B,notification_open,0,0,1,83.0,8,0,1,0,0,164.14,Low,Low,1.5,0,0,1
+200196,2026-05-24,Sun,Morning,24,Female,Mumbai,Tamil Nadu,India,Telugu,Android,iPhone 14,Android 13,2.1.1,Airtel,meta,remarketing,C,view_home,0,0,0,455.0,6,0,0,0,0,117.11,High,Low,1.3,1,0,1
+200197,2025-06-23,Tue,Afternoon,22,Female,Indore,Rajasthan,India,Tamil,iOS,iPhone 13,Android 14,1.2.3,Airtel,google,welcome_offer,E,view_home,0,1,1,685.0,9,0,0,0,0,375.28,Mid,Low,3.3,0,0,1
+200198,2025-09-01,Mon,Night,25,Female,Hyderabad,Tamil Nadu,India,Tamil,Web,Samsung A14,iOS 16,1.1.0,Vi,google,welcome_offer,E,promo_click,1,0,0,299.0,7,0,0,0,0,47.62,Mid,Medium,1.3,0,0,1
+200199,2026-02-03,Sat,Morning,59,Female,Delhi,MP,India,Tamil,Android,Samsung A14,iOS 16,2.1.1,Jio,crm,remarketing,E,promo_click,0,0,1,70.0,11,1,0,0,0,97.85,Low,High,2.2,0,0,0
+200200,2025-05-11,Fri,Afternoon,43,Female,Jaipur,Rajasthan,UK,Telugu,Web,Vivo V27,iOS 16,1.0.1,Airtel,affiliate,install_campaign,A,promo_click,1,1,1,52.0,7,0,0,0,0,76.17,Low,Low,2.0,0,0,1
+200201,2025-03-29,Mon,Morning,42,Male,Kolkata,Telangana,India,Tamil,Android,OnePlus Nord,iOS 17,1.0.1,Vi,affiliate,welcome_offer,B,view_home,1,1,0,181.0,5,0,0,0,0,340.22,Low,Low,2.0,0,0,1
+200202,2025-11-08,Mon,Afternoon,35,Male,Chennai,MP,India,Telugu,iOS,iPhone 13,iOS 17,1.2.3,Airtel,referral,welcome_offer,B,view_service,1,1,0,263.0,8,0,1,0,0,318.85,Low,Low,4.8,0,1,0
+200203,2025-04-05,Tue,Morning,37,Female,Kolkata,Tamil Nadu,India,Tamil,iOS,Redmi Note,Android 13,2.1.1,Jio,meta,lookalike,E,app_launch,1,0,1,377.0,9,0,1,0,0,133.27,Mid,Low,2.8,0,0,1
+200204,2025-03-23,Fri,Morning,55,Female,Mumbai,Delhi,India,Hindi,iOS,Redmi Note,iOS 17,2.0.0,Vi,organic,install_campaign,C,signup,1,1,1,162.0,11,1,0,1,0,200.9,Mid,Medium,5.2,0,1,0
+200205,2025-05-21,Sat,Night,24,Female,Hyderabad,MP,India,Telugu,Android,iPhone 14,iOS 17,2.1.1,ACT,organic,brand_search,E,view_home,1,0,1,291.0,3,0,0,0,0,104.7,Mid,Low,1.3,0,0,0
+200206,2025-05-23,Tue,Afternoon,55,Male,Delhi,Maharashtra,India,Telugu,Web,iPhone 14,iOS 16,1.1.0,BSNL,google,brand_search,A,app_launch,0,0,1,13.0,7,0,1,1,0,109.88,Low,Low,2.5,0,0,1
+200207,2025-01-16,Thu,Night,19,Male,Chennai,Telangana,India,Bengali,iOS,Oppo F21,iOS 16,1.2.3,Jio,affiliate,welcome_offer,A,promo_click,1,0,1,68.0,4,1,1,0,0,180.27,High,High,2.7,1,0,1
+200208,2025-01-11,Fri,Morning,46,Female,Pune,Tamil Nadu,India,Hindi,Web,Redmi Note,Android 12,2.0.0,Vi,affiliate,welcome_offer,B,notification_open,1,0,0,175.0,12,0,0,0,0,209.75,Low,High,1.0,0,0,1
+200209,2026-05-15,Thu,Afternoon,44,Male,Chennai,Telangana,India,English,Android,OnePlus Nord,Android 13,2.0.0,Airtel,referral,lookalike,B,signup,1,1,1,138.0,7,0,0,0,0,150.76,Low,Medium,2.0,0,0,0
+200210,2025-05-16,Thu,Evening,20,Male,Pune,Rajasthan,India,Tamil,Android,Vivo V27,iOS 17,1.2.3,Other,crm,welcome_offer,D,view_home,1,1,1,180.0,6,0,0,0,0,95.27,Mid,Medium,2.0,0,0,0
+200211,2025-08-20,Sat,Afternoon,47,Male,Kolkata,Maharashtra,India,Hindi,Android,iPhone 14,Android 14,1.0.1,Airtel,google,lookalike,C,app_launch,1,0,1,139.0,5,0,1,0,0,117.96,Low,Medium,1.5,0,0,1
+200212,2025-08-06,Sat,Evening,21,Female,Bengaluru,Karnataka,India,Telugu,iOS,Vivo V27,Android 14,2.1.1,ACT,organic,brand_search,C,promo_click,1,1,0,215.0,13,0,1,1,1,96.27,High,Low,8.5,1,1,0
+200213,2026-03-24,Tue,Night,47,Male,Mumbai,Tamil Nadu,India,Bengali,Android,Samsung A14,iOS 17,1.2.3,Vi,crm,brand_search,C,view_service,1,0,1,189.0,15,1,1,0,0,253.29,Premium,Low,3.7,1,0,0
+200214,2025-08-24,Wed,Morning,33,Female,Indore,Delhi,India,Hindi,iOS,Samsung A14,iOS 17,1.0.1,Vi,crm,organic,B,promo_click,1,1,0,314.0,14,1,1,0,1,80.15,Premium,Low,10.0,1,1,0
+200215,2025-01-17,Sat,Morning,26,Male,Hyderabad,Karnataka,India,English,Android,OnePlus Nord,Android 12,2.0.0,Other,google,lookalike,C,app_launch,1,1,1,41.0,12,1,0,0,0,49.03,Mid,Low,4.2,0,1,1
+200216,2024-12-23,Sat,Night,38,Male,Kolkata,Telangana,India,Telugu,Android,iPhone 14,iOS 16,1.0.1,Other,affiliate,brand_search,E,view_service,1,1,1,273.0,11,0,1,1,0,34.16,Low,Medium,6.8,0,1,1
+200217,2025-08-06,Wed,Afternoon,47,Female,Pune,MP,India,English,Android,Samsung A14,Android 13,2.1.1,Other,crm,welcome_offer,C,view_home,1,0,1,139.0,10,0,0,0,0,25.94,Low,Low,0.0,0,0,0
+200218,2025-03-08,Mon,Evening,27,Male,Mumbai,MP,India,Telugu,Android,iPhone 14,Android 13,2.1.1,BSNL,organic,remarketing,D,notification_open,1,0,1,180.0,7,0,0,0,0,192.66,High,High,0.0,1,0,0
+200219,2025-08-30,Sat,Morning,23,Female,Jaipur,MP,India,Hindi,Android,iPhone 14,Android 14,2.0.0,Jio,affiliate,remarketing,C,view_home,0,1,0,206.0,10,0,1,0,0,395.7,Mid,Medium,3.5,0,0,1
+200220,2026-01-22,Mon,Afternoon,29,Female,Jaipur,MP,India,Tamil,Android,Redmi Note,iOS 17,2.0.0,Jio,referral,organic,E,notification_open,1,1,1,149.0,15,0,0,1,0,106.08,Low,Low,4.0,0,1,0
+200221,2025-12-05,Thu,Evening,27,Female,Pune,West Bengal,India,English,Android,iPhone 14,Android 14,2.0.0,Other,affiliate,install_campaign,D,app_launch,1,0,0,349.0,7,0,0,0,0,60.84,Low,Low,1.3,0,0,1
+200222,2025-12-11,Sun,Night,53,Male,Indore,Tamil Nadu,India,English,iOS,OnePlus Nord,iOS 17,1.2.3,BSNL,meta,install_campaign,E,notification_open,0,0,0,415.0,5,0,0,0,0,19.7,High,Medium,1.3,1,0,1
+200223,2026-02-24,Tue,Morning,34,Female,Delhi,Karnataka,India,Bengali,Android,Redmi Note,iOS 17,2.0.0,ACT,referral,remarketing,E,view_home,0,1,1,118.0,10,1,1,1,0,158.85,High,Medium,5.7,1,1,0
+200224,2025-06-12,Sun,Afternoon,54,Male,Pune,Telangana,UAE,Hindi,Android,iPhone 14,Android 13,1.2.3,Other,organic,install_campaign,E,app_launch,1,0,1,209.0,8,0,0,1,0,91.29,High,Low,1.0,1,0,0
+200225,2025-05-18,Wed,Morning,40,Male,Jaipur,West Bengal,India,Telugu,iOS,Redmi Note,Android 14,1.0.1,ACT,meta,install_campaign,E,view_home,1,0,0,98.0,9,1,0,0,0,181.98,Mid,Low,1.2,0,0,1
+200226,2026-05-20,Fri,Afternoon,56,Male,Kolkata,Delhi,India,Telugu,Android,iPhone 14,iOS 17,2.0.0,ACT,crm,organic,C,signup,1,0,0,131.0,2,0,0,0,0,57.35,High,Low,0.0,1,0,0
+200227,2025-02-19,Sat,Evening,22,Male,Kolkata,West Bengal,India,Telugu,iOS,Redmi Note,Android 13,2.0.0,Airtel,meta,install_campaign,A,view_service,1,1,1,170.0,8,0,1,1,0,136.25,Mid,Medium,4.5,0,1,1
+200228,2025-02-11,Sat,Afternoon,21,Female,Delhi,West Bengal,India,Hindi,iOS,Vivo V27,iOS 17,2.0.0,BSNL,google,remarketing,B,promo_click,1,0,0,72.0,14,0,1,0,0,165.8,Low,Low,2.5,0,0,1
+200229,2025-04-08,Tue,Morning,43,Male,Kolkata,Telangana,India,Bengali,Android,OnePlus Nord,Android 13,1.2.3,Airtel,affiliate,brand_search,C,app_launch,1,1,1,152.0,12,0,1,0,0,108.78,High,Medium,4.5,1,1,1
+200230,2025-01-26,Tue,Night,33,Male,Jaipur,Rajasthan,India,Hindi,iOS,iPhone 14,iOS 16,1.1.0,Jio,google,lookalike,A,notification_open,1,1,1,190.0,11,0,1,0,0,194.08,High,Medium,4.5,1,1,1
+200231,2025-07-27,Mon,Afternoon,21,Female,Bengaluru,Maharashtra,India,Hindi,Android,Vivo V27,iOS 17,2.0.0,ACT,organic,organic,D,promo_click,1,0,0,349.0,11,0,0,1,1,83.72,Mid,Medium,6.3,0,1,0
+200232,2025-03-10,Thu,Night,23,Male,Indore,Maharashtra,India,English,iOS,iPhone 14,Android 13,2.1.1,ACT,meta,lookalike,D,app_launch,1,0,0,229.0,3,0,0,0,0,14.27,Low,Medium,0.0,0,0,1
+200233,2025-08-29,Tue,Afternoon,39,Male,Delhi,Telangana,India,English,iOS,Redmi Note,Android 14,1.1.0,BSNL,referral,organic,E,signup,0,1,0,147.0,13,0,0,0,0,178.6,High,Medium,3.0,1,0,0
+200234,2026-02-13,Fri,Afternoon,31,Male,Jaipur,West Bengal,India,English,iOS,Vivo V27,Android 13,1.2.3,Vi,crm,remarketing,A,app_launch,1,1,0,366.0,10,0,1,0,0,284.12,Low,Medium,4.8,0,1,0
+200235,2025-01-31,Fri,Afternoon,36,Male,Indore,MP,India,Hindi,iOS,iPhone 14,Android 14,1.0.1,ACT,crm,organic,D,app_launch,1,0,1,80.0,6,0,0,0,0,102.52,High,Medium,0.0,1,0,0
+200236,2025-07-31,Sat,Evening,52,Male,Hyderabad,Telangana,India,Tamil,Android,OnePlus Nord,Android 12,1.2.3,Jio,meta,welcome_offer,B,view_home,1,1,1,180.0,11,0,0,0,0,28.42,Mid,Medium,3.0,0,0,1
+200237,2024-12-08,Tue,Morning,33,Female,Indore,Delhi,UK,Bengali,Android,Redmi Note,Android 14,2.0.0,BSNL,meta,install_campaign,A,view_service,1,1,1,231.0,12,0,1,0,0,129.18,Mid,Low,4.5,0,1,1
+200238,2026-05-08,Thu,Afternoon,20,Female,Pune,Rajasthan,India,Tamil,iOS,iPhone 14,iOS 17,1.2.3,ACT,meta,remarketing,A,view_home,1,0,1,262.0,13,0,1,0,0,59.66,Mid,Medium,3.8,0,0,1
+200239,2025-07-23,Sun,Night,47,Female,Hyderabad,West Bengal,India,Tamil,Android,Redmi Note,iOS 17,1.2.3,Airtel,meta,install_campaign,C,view_service,1,1,0,78.0,10,0,0,0,0,103.75,Mid,Medium,2.0,0,0,1
+200240,2025-09-04,Tue,Night,59,Female,Jaipur,Telangana,India,Hindi,iOS,Vivo V27,Android 13,1.0.1,Airtel,google,welcome_offer,A,view_home,1,1,0,33.0,8,0,1,0,0,88.78,Mid,Medium,3.5,0,0,1
+200241,2025-10-29,Thu,Evening,41,Female,Jaipur,Delhi,UK,Tamil,Android,Redmi Note,Android 14,2.0.0,Jio,google,welcome_offer,D,view_service,0,0,1,185.0,3,0,1,0,0,255.21,Premium,Low,1.5,1,0,1
+200242,2025-09-05,Mon,Afternoon,50,Female,Chennai,Rajasthan,Canada,Tamil,iOS,Redmi Note,Android 12,1.2.3,Airtel,affiliate,remarketing,C,promo_click,1,0,1,131.0,3,0,0,1,1,118.75,High,Low,4.0,1,1,1
+200243,2025-04-29,Sat,Night,26,Male,Jaipur,Telangana,India,Bengali,Android,Redmi Note,Android 13,1.0.1,ACT,meta,organic,B,signup,1,0,0,403.0,5,0,1,0,1,79.82,Low,Medium,5.8,0,1,1
+200244,2025-05-20,Mon,Afternoon,56,Female,Pune,Tamil Nadu,India,Bengali,Android,Samsung A14,iOS 17,1.1.0,ACT,affiliate,brand_search,C,app_launch,0,1,1,264.0,7,0,0,0,0,37.76,High,High,3.3,1,0,1
+200245,2025-01-21,Thu,Evening,40,Male,Jaipur,MP,India,Bengali,iOS,iPhone 14,iOS 17,2.1.1,ACT,affiliate,welcome_offer,D,view_service,1,1,0,174.0,10,0,1,0,0,85.34,Mid,Low,3.5,0,0,1
+200246,2025-12-18,Thu,Afternoon,27,Female,Pune,Telangana,UK,Hindi,iOS,Oppo F21,iOS 17,1.1.0,Other,affiliate,lookalike,C,notification_open,0,1,1,243.0,4,1,1,0,0,100.15,Low,Medium,6.0,0,1,1
+200247,2025-08-10,Sun,Night,56,Female,Jaipur,Delhi,India,Telugu,Android,iPhone 13,iOS 16,1.0.1,Vi,meta,lookalike,B,notification_open,1,0,1,153.0,9,0,0,1,0,181.25,High,Low,1.0,1,0,1
+200248,2025-06-04,Wed,Afternoon,40,Male,Indore,Maharashtra,India,Tamil,iOS,Samsung A14,Android 12,1.2.3,Other,meta,remarketing,C,notification_open,1,1,1,133.0,6,0,0,0,0,180.46,High,Low,2.0,1,0,1
+200249,2025-11-23,Sat,Night,53,Female,Chennai,West Bengal,India,English,Android,Redmi Note,iOS 16,1.0.1,Other,affiliate,brand_search,B,view_service,1,0,1,140.0,9,0,0,0,1,45.03,Mid,Medium,3.0,0,0,1
